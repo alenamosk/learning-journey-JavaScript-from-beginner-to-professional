@@ -1,3 +1,7 @@
+// Exercise from the book "JavaScript from Beginner to Professional"
+// Authors: Laurence Lars Svekis, Maaike van Putten, Codestars By Rob Percival
+// Link to the book: https://learning.oreilly.com/library/view/javascript-from-beginner/9781800562523/
+
 // Write some code to calculate the hypotenuse of a triangle using the Pythagorean theorem when given the values of the other two sides. The theorem specifies that the relation between the sides of a right-angled triangle is a**2 + b**2 = c**2.
 
 let a = prompt("Enter the length of side 'a'");

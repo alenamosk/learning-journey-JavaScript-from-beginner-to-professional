@@ -1,3 +1,7 @@
+// Exercise from the book "JavaScript from Beginner to Professional"
+// Authors: Laurence Lars Svekis, Maaike van Putten, Codestars By Rob Percival
+// Link to the book: https://learning.oreilly.com/library/view/javascript-from-beginner/9781800562523/
+
 // What are the types of these variables listed below? Verify this with typeof and output the result to the console:
 let str1 = "Laurence"; //string
 console.log(typeof str1);
